@@ -9,3 +9,5 @@ In this project, comparison of glasses and toothbrushes was done by using deep l
 -Data Augmentation
 
 -Dropout method
+
+Dataset: https://www.kaggle.com/cevheryilmaz/glassestoothbrush
